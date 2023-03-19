@@ -1,0 +1,6 @@
+.forms {
+    display: grid;
+    grid-template-columns: auto;
+    grid-auto-rows: auto;
+    row-gap: 10px;
+}

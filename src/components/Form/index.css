@@ -1,0 +1,18 @@
+.input {
+    border-color: #efe4e5;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.input:valid {
+    border: 1px solid green;
+}
+
+.input:focus-visible {
+    outline: #f0e2e3;
+}
+
+.label {
+    color: #cbcbcb;
+}
